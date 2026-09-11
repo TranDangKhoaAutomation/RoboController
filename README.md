@@ -420,6 +420,6 @@ void loop() {
 
 ---
 
-Made by **TranDangKhoaTechnology**  
-GitHub: https://github.com/TranDangKhoaTechnology  
+Made by **TranDangKhoaAutomation**  
+GitHub: https://github.com/TranDangKhoaAutomation  
 Email: trandangkhoa31122006@gmail.com
